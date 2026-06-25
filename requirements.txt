@@ -1,0 +1,7 @@
+pyautogui
+keyboard
+requests
+Pillow
+python-telegram-bot
+fastapi
+uvicorn
